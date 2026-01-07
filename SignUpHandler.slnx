@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/SignUpHandler/SignUpHandler.csproj" />
+  <Project Path="test/SignUpHandler.Tests/SignUpHandler.Tests.csproj" />
+</Solution>
